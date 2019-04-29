@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Bilal Kartal Blog
+name: Bilal Kartal
 
 # Short bio or description (displayed in the header)
 description: A Collection of Posts on Random Topics
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: b-kartal
   instagram:
-  linkedin:
+  linkedin:bilal-kartal-phd
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: bll_krtl
