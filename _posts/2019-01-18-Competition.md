@@ -1,6 +1,8 @@
 ---
 layout: post
 title: To Compete or Not to Compete?
+categories: [blog, AI]
+tags: [RL, Multi-agent]
 ---
 
 
