@@ -6,7 +6,7 @@ tags: [RL, Multi-agent]
 ---
 
 
-In this post, I will share my experiences for a recent multi-agent RL competition ([Pommerman](https://www.pommerman.com/)) that we participated at NeurIPS-2018. Even though, I only attended one such competition so far, I will try to generalize by assuming many aspects will be similar for competitions in different fields. I will decompose the benefits into multiple categories, and detail them.
+In this post, I will share my experiences for a recent multi-agent RL competition ([Pommerman](https://www.pommerman.com/)) that [we](https://www.borealisai.com/en/blog/pommerman-team-competition-or-how-we-learned-stop-worrying-and-love-battle/) participated at NeurIPS-2018. Even though, I only attended one such competition so far, I will try to generalize by assuming many aspects will be similar for competitions in different fields. I will decompose the benefits into multiple categories, and detail them.
 
 ### Mastering Skills:
 
@@ -22,11 +22,11 @@ This is the most obvious and quick yield of performing well in competitions. Goo
 
 ### Being a Citizen Scientist:
 
-Even though some competitions might be organized for fun, AI/ML/Robotics competitions are generally designed and setup to gather more ideas or out-of-the-box solutions for some open industry related problems. In a way, each participant acts as a citizen scientist. For example, DARPA Grand Challenge started a new research/engineering frontier which greatly accelerated the development of commercial autonomous cars.
+Even though some competitions might be organized for fun, AI/ML/Robotics competitions are generally designed and setup to gather more ideas or out-of-the-box solutions for some open industry related problems. In a way, each participant acts as a citizen scientist. For example, [DARPA Grand Challenge](https://www.wired.com/story/darpa-grand-urban-challenge-self-driving-car/) started a new research/engineering frontier which greatly accelerated the development of commercial autonomous cars.
 
 ### Engineering Issues:
 
-Even though, I motivate and encourage participation in competitions for all the perspectives listed above, if main interest is to be on top-k on the leaderboard, then there are some resource related challenges. For particularly AI projects, where one has infinitely many degrees of freedom to tune, it might be computationally costly. This also lures researchers to spend more time with software rather than ideas or fundamental concepts. For example, the winner of the Open AI Retro contest did not come up with a new method or framework. Indeed, they employed a baseline method provided by Open AI with some modifications and tuning.
+Even though, I motivate and encourage participation in competitions for all the perspectives listed above, if main interest is to be on top-k on the leaderboard, then there are some resource related challenges. For particularly AI projects, where one has infinitely many degrees of freedom to tune, it might be computationally costly. This also lures researchers to spend more time with software rather than ideas or fundamental concepts. For example, the winner of the [Open AI Retro contest](https://openai.com/blog/first-retro-contest-retrospective/) did not come up with a new method or framework. Indeed, they employed a baseline method provided by Open AI with some modifications and tuning.
 
 ### Summary:
 
