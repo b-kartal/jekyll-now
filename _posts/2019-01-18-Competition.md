@@ -6,7 +6,7 @@ tags: [RL, Multi-agent]
 ---
 
 
-In this post, I will share my experiences for a recent multi-agent RL competition (Pommerman) that we participated at NeurIPS-2018. Even though, I only attended one such competition so far, I will try to generalize by assuming many aspects will be similar for competitions in different fields. I will decompose the benefits into multiple categories, and detail them.
+In this post, I will share my experiences for a recent multi-agent RL competition ([Pommerman](https://www.pommerman.com/)) that we participated at NeurIPS-2018. Even though, I only attended one such competition so far, I will try to generalize by assuming many aspects will be similar for competitions in different fields. I will decompose the benefits into multiple categories, and detail them.
 
 ### Mastering Skills:
 
