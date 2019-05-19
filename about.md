@@ -6,7 +6,7 @@ permalink: /about/
 
 Thanks for visiting my blog. 
 
-Glad to have this asynronous interaction with you on the cyberspace.
+Glad to have this asyncronous interaction with you on the cyberspace.
 
 ### More Information
 
