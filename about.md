@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Thanks for visiting my blog. 
+
+Glad to have this asynronous interaction with you on the cyberspace.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+[Here is a link to my personal webpage](https://sites.google.com/view/bilalkartal/home).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+firstname [at] cs [dot] umn [dot] edu
