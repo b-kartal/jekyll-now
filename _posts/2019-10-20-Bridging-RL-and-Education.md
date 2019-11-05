@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bridging RL and Education
+title: Bridging Reinforcement Learning and Education
 categories: [blog, AI]
 tags: [AI, general, RL]
 ---
